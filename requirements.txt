@@ -1,0 +1,2 @@
+pynini==2.1.7
+num2words==0.5.14
